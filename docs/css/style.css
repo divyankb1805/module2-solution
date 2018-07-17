@@ -68,6 +68,6 @@ p{
 	.col-mb-12{
 		float: left;
 		border: 1px solid blue;
-		width: (100% - 10px);
+		width: calc(100% - 10px);
 	}
 }
